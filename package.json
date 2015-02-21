@@ -1,0 +1,7 @@
+{
+  "name": "grunt-yaml-validate",
+  "version": "0.1.0",
+  "dependencies": {
+    "yaml-validate": "~0.1.0"
+  }
+}
